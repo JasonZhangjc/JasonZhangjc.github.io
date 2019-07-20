@@ -43,3 +43,10 @@ social:
     url: https://github.com/JasonZhangjc
     desc: Fork me on GitHub
     share: false
+  
+  - name: LinkedIn
+    icon: linkedin
+    username: Jiachen Zhang
+    url: https://www.linkedin.com/in/jiachen-zhang-0094a118b/
+    desc: Fork me on LinkedIn
+    share: true
